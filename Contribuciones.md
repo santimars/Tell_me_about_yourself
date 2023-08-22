@@ -11,7 +11,7 @@ If you're making changes to a translation, please request a review from our prev
 
 |  country | name profile | picture| support|
 |--|---|---|--|
-|COLOMBIA | [Santi Rodriguez](https:www.github.com/santimars) | [<img width="100" src="https://avatars.githubusercontent.com/u/98999805?v=4" alt="@santimars" />](https://github.com/santimars) |[tell me about yourself](https://github.com/W-R-T-O/Tell_me_about_yourself/tree/main) |
+|COLOMBIA | [Santi Rodriguez](https:www.github.com/santimars) | [<img width="100" src="https://avatars.githubusercontent.com/u/98999805?v=4" alt="santimars" />](https://github.com/santimars) |[tell me about yourself](https://github.com/W-R-T-O/Tell_me_about_yourself/tree/main) |
 | Albanian | [Albanian](../translations/README.al.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/40631828?v=4" alt="RronKurtishi" />](https://github.com/RronKurtishi) |
 | العربية | [Arabic](../translations/README.ar.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/83532081?v=4" alt="OsaidAlhomedy" />](https://github.com/OsaidAlhomedy) [<img width="100" src="https://avatars.githubusercontent.com/u/97640062?v=4" alt="AlaaYlula" />](https://github.com/AlaaYlula) [<img width="100" src="https://avatars.githubusercontent.com/u/60319236?v=4" alt="Laith-Alayassa" />](https://github.com/Laith-Alayassa) |
 | Azerbaijani | [Azerbaijani](../translations/README.aze.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/60487349?v=4" alt="@isakurbanov744" />](https://github.com/isakurbanov744)   [<img width="100" src="https://avatars.githubusercontent.com/u/58222828?v=4" alt="@Ahm3tJ4f" />](https://github.com/Ahm3tJ4f) |
