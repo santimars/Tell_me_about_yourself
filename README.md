@@ -4,3 +4,4 @@
 # Objetive
 
 This repository aims to be able to learn how to use the tools that Github allows us to use.
+To participate in this repository you must first open a fork where you can edit and add only the following options.
