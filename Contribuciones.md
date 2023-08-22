@@ -1,5 +1,5 @@
 | Language Name | Name in English | Reviewers| support|
-|---|---|---|
+|---|---|---|---|
 | Afrikaans | [Afrikaans](../translations/README.afk.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/36197725?v=4" alt="@zecollokaris" />](https://github.com/zecollokaris) |[contributions.md](../translations/README.al.md)
 | Albanian | [Albanian](../translations/README.al.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/40631828?v=4" alt="RronKurtishi" />](https://github.com/RronKurtishi) |
 | العربية | [Arabic](../translations/README.ar.md) | [<img width="100" src="https://avatars.githubusercontent.com/u/83532081?v=4" alt="OsaidAlhomedy" />](https://github.com/OsaidAlhomedy) [<img width="100" src="https://avatars.githubusercontent.com/u/97640062?v=4" alt="AlaaYlula" />](https://github.com/AlaaYlula) [<img width="100" src="https://avatars.githubusercontent.com/u/60319236?v=4" alt="Laith-Alayassa" />](https://github.com/Laith-Alayassa) |
