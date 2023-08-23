@@ -2,7 +2,7 @@
 
 We appreciate your thought to contribute to open source. :heart:
 
-If you'd like to suggest a change in the tutorials or the workflow, please [raise an issue](https://github.com/firstcontributions/first-contributions/issues/new). We can have a discussion to better understand the problem, get more people involved and make a collective decision.
+If you'd like to suggest a change in the tutorials or the workflow, please [raise an issue](https://github.com/santimars/Tell_me_about_yourself/blob/main/README.md). We can have a discussion to better understand the problem, get more people involved and make a collective decision.
 
  (`Readme.md`) (Except for links to other translations. We realised that it doesn't add much value)
 
