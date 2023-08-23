@@ -6,7 +6,7 @@ If you'd like to suggest a change in the tutorials or the workflow, please [rais
 
  (`Readme.md`) (Except for links to other translations. We realised that it doesn't add much value)
 
-### Our reviewers :sparkles:
+### Our Profiles :sparkles:
 
 
 |  country | name profile | picture| support|
