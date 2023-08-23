@@ -4,12 +4,12 @@ We appreciate your thought to contribute to open source. :heart:
 
 If you'd like to suggest a change in the tutorials or the workflow, please [raise an issue](https://github.com/firstcontributions/first-contributions/issues/new). We can have a discussion to better understand the problem, get more people involved and make a collective decision.
 
-If you're making changes to a translation, please request a review from our previous contributors who has translated to the respective translation. Our goal is for all translations to have the same content as the English one (`Readme.md`) (Except for links to other translations. We realised that it doesn't add much value)
+ (`Readme.md`) (Except for links to other translations. We realised that it doesn't add much value)
 
-### Our reviewers :sparkles:
+### Our Profiles :sparkles:
 
 
 |  country | name profile | picture| support|
 |--|---|---|--|
-|COLOMBIA | [Santi Rodriguez](https:www.github.com/santimars) | [<img width="100" src="https://avatars.githubusercontent.com/u/98999805?v=4" alt="santimars" />](https://github.com/santimars) |[tell me about yourself](https://github.com/W-R-T-O/Tell_me_about_yourself/tree/main) |
+|COLOMBIA | [Santi Rodriguez](https://github.com/santimars) | [<img width="100" src="https://avatars.githubusercontent.com/u/98999805?v=4" alt="santimars" />](https://github.com/santimars) |[tell me about yourself](https://github.com/W-R-T-O/Tell_me_about_yourself/tree/main) |
 | EL SALVADOR | [Michael erza](https:www.github.com/michael34df) | [<img width="100" src="https://avatars.githubusercontent.com/u/142544467?v=4" alt="Michael34df" />](https://github.com/Michael34df) |
