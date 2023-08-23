@@ -1,4 +1,4 @@
-# Read a contribution✌🏽
+# How to make your contribution✌🏽
 ![image](https://github.com/santimars/Tell_me_about_yourself/assets/98999805/22602316-af31-49a4-ad22-ed49ffe74b9a)
 
 # Objetive📉📈
