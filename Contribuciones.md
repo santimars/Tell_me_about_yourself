@@ -1,11 +1,9 @@
 # Contribution guide
 
-We appreciate your thought to contribute to open source. :heart:
+We appreciate your help in contributing to open source. ❤️
 
-If you'd like to suggest a change in the tutorials or the workflow, please [raise an issue](https://github.com/santimars/Tell_me_about_yourself/blob/main/README.md). We can have a discussion to better understand the problem, get more people involved and make a collective decision.
-
- (`Readme.md`) (Except for links to other translations. We realised that it doesn't add much value)
-
+If you want to know what you can contribute to this open source, I encourage you to read our [readme.md](https://github.com/santimars/Tell_me_about_yourself/blob/main/README.md). If you want to make a change to the repository or add some help, you can contact us.
+You can add this repository to your favorites 🌟:
 ### Our Profiles :sparkles:
 
 
