@@ -141,7 +141,7 @@ Celebrate your contribution and share it with your friends and followers
 <p>This project is supported by:</p>
 <p>
   <a href="https://github.com/W-R-T-O">
-    [<img width="201px src="https://github.com/W-R-T-O/Tell_me_about_yourself/assets/98999805/1d566b8e-d5f6-4bf4-8b61-7b4172494f2d" />](https://github.com/W-R-T-O)
+    [<img width="201px src="https://github.com/W-R-T-O/Tell_me_about_yourself/assets/98999805/1d566b8e-d5f6-4bf4-8b61-7b4172494f2d" />](https://github.com/santimars
   </a>
      
 </p>
