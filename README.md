@@ -70,7 +70,7 @@ git switch -c add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open the `Contributors.md` file. Copy the information that is in it, edit it adding the information you should put and then add it `Contributions.md
+Now open the [`Contributors.md`](https://github.com/santimars/Tell_me_about_yourself/blob/main/Contributors.md) file. Copy the information that is in it, edit it adding the information you should put and then add it `Contributions.md
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
