@@ -140,8 +140,8 @@ Celebrate your contribution and share it with your friends and followers
 
 <p>This project is supported by:</p>
 <p>
-  <a href="https://github.com/santimars">
-    <img width="201" src="https://avatars.githubusercontent.com/u/98999805?v=4" alt="santimars"" />
+  <a href="https://github.com/W-R-T-O">
+    <img width="201" src="https://avatars.githubusercontent.com/u/142630839?s=200&v=4" alt="W-R-T-O"" />
   </a>
      
 </p>
