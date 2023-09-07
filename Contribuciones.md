@@ -11,4 +11,4 @@ You can add this repository to your favorites 🌟:
 |--|---|---|--|
 |COLOMBIA | [Santi Rodriguez](https://github.com/santimars) | [<img width="100" src="https://avatars.githubusercontent.com/u/98999805?v=4" alt="santimars" />](https://github.com/santimars) |[tell me about yourself](https://github.com/W-R-T-O/Tell_me_about_yourself/tree/main) |
 | EL SALVADOR | [Michael erza](https://github.com/Michael34df) | [<img width="100" src="https://avatars.githubusercontent.com/u/142544467?v=4" alt="Michael34df" />](https://github.com/Michael34df) |[Achievements](https://github.com/W-R-T-O/Achievements.github) |
-| EL SALVADOR | [Carlos](https://github.com/devepolercarlosr) | [<img width="100" src="https://avatars.githubusercontent.com/u/144275977?v=4" alt="developercarlosr" />](https://github.com/Michael34df) |
+| EL SALVADOR | [Carlos](https://github.com/devepolercarlosr) | [<img width="100" src="https://avatars.githubusercontent.com/u/144275977?v=4" alt="developercarlosr" />](https://github.com/devepolercarlosr) |
